@@ -1,3 +1,4 @@
+[![Support me](https://iacoposk8.github.io/img/buymepizza.png)](https://buymeacoffee.com/iacoposk8)
 
 # Md and requirements generator
 Script to generate .md files for use on github and the requirements.txt file to make it easy to update the project.
